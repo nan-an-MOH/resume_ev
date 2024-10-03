@@ -1,0 +1,11 @@
+name: cve
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - PyPDF2
+  - tiktoken
+  - pandas
+  - openai
+  - openpyxl
+  - fuzzywuzzy
